@@ -21,9 +21,11 @@ export default {
             __html: '<p>你好，可以叫我锦文，是一位互联网行业从业者，目前在腾讯写写代码。</p>\n<p>// ...</p>\n<p>其他稍后补充啦。</p>'
         } }),
     'toc': null,
-    'author': undefined,
-    'contributors': [],
-    'date': "2021-07-22T18:15:34.893Z",
+    'author': "Jinvien",
+    'contributors': [
+        "Jinvien"
+    ],
+    'date': "2021-07-22T18:18:38.000Z",
     'updated': null,
     'excerpt': "你好，可以叫我锦文，是一位互联网行业从业者，目前在腾讯写写代码。 // ... 其他稍后补充啦。",
     'cover': undefined,
@@ -34,9 +36,12 @@ export default {
                 "pagePath": "posts/photography/sanya.md",
                 "title": "三亚的海",
                 "link": "posts/photography/sanya.html",
-                "date": "2021-07-22T18:15:34.893Z",
+                "date": "2021-07-22T18:18:38.000Z",
                 "updated": null,
-                "contributors": [],
+                "author": "Jinvien",
+                "contributors": [
+                    "Jinvien"
+                ],
                 "categories": [
                     "photography"
                 ],
